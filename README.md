@@ -1,0 +1,2 @@
+# InternSavy
+Internship of web development and design field. Also, I'll have the chance to work on real-world projects, and expand my knowledge of HTML, CSS, JavaScript, and other relevant technologies.
